@@ -6,6 +6,6 @@ int main() {
   b=2;
   c=a+b;
   printf("%d ",c);
-  pringf("test!\n"); 
+  printf("test!\n"); 
   return 0;
 }
